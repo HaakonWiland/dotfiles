@@ -1,0 +1,8 @@
+[
+{
+  "key": "ctrl+oem_2",
+  "command": "editor.action.commentLine",
+  "when": "editorTextFocus && (vim.mode == 'Normal' || vim.mode == 'Visual') && !editorReadonly"
+},
+
+]
